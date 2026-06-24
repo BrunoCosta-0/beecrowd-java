@@ -5,16 +5,20 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 ---
 
 ## 📋 Exercícios
-![Exercícios](https://img.shields.io/badge/Exercícios-4-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercicios-8-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
 | # | Problema | Solução |
 |---|----------|---------|
-| 1000 | Hello World! | [ver](./1000-HelloWorld.java) |
+| 1000 | Hello World! | [ver](./HelloWorld.java) |
 | 1001 | Extremamente Básico | [ver](./ExtremamenteBasico.java) |
 | 1002 | Área do Círculo | [ver](./AreaDoCirculo.java) |
 | 1003 | Soma Simples | [ver](./SomaSimples.java) |
+| 1004 | Produto Simples | [ver](./ProdutoSimples.java) |
+| 1005 | Média 1 | [ver](./Media1.java) |
+| 1006 | Média 2 | [ver](./Media2.java) |
+| 1007 | Diferença | [ver](./Diferenca.java) |
 
 ---
 
