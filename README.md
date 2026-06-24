@@ -11,7 +11,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 | # | Problema | Solução |
 |---|----------|---------|
-| 1000 | Hello World! | [ver](./HelloWorld.java) |
+| 1000 | Hello World! | [ver](./1000-HelloWorld.java) |
 | 1001 | Extremamente Básico | [ver](./ExtremamenteBasico.java) |
 | 1002 | Área do Círculo | [ver](./AreaDoCirculo.java) |
 | 1003 | Soma Simples | [ver](./SomaSimples.java) |
