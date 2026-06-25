@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-11-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-12-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -24,6 +24,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1008 | Salário | [ver](./Salario.java) |
 | 1009 | Salário com Bônus | [ver](./SalarioComBonus.java) |
 | 1010 | Cálculo Simples | [ver](./CalculoSimples.java) |
+| 1011 | Esfera | [ver](./Esfera.java) |
 
 ---
 
