@@ -25,6 +25,11 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1009 | Salário com Bônus | [ver](./SalarioComBonus.java) |
 | 1010 | Cálculo Simples | [ver](./CalculoSimples.java) |
 | 1011 | Esfera | [ver](./Esfera.java) |
+| 1012 | Área | [ver](./Area.java) |
+| 1013 | O Maior | [ver](./OMaior.java) |
+| 1014 | Consumo | [ver](./Consumo.java) |
+| 1015 | Distância Entre Dois Pontos | [ver](./DistanciaEntreDoiPontos.java) |
+| 1016 | Distância | [ver](./Distancia.java) |
 
 ---
 
