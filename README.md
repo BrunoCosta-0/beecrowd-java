@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-12-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-17-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
