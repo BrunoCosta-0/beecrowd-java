@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-17-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-22-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -30,6 +30,11 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1014 | Consumo | [ver](./Consumo.java) |
 | 1015 | Distância Entre Dois Pontos | [ver](./DistanciaEntreDoiPontos.java) |
 | 1016 | Distância | [ver](./Distancia.java) |
+| 1017 | Gasto de Combustível | [ver](./GastoDeCombustivel.java) |
+| 1018 | Cédulas | [ver](./Cedulas.java) |
+| 1019 | Conversão de Tempo | [ver](./ConversaoDeTempo.java) |
+| 1020 | Idade em Dias | [ver](./IdadeEmDias.java) |
+| 1021 | Notas e Moedas | [ver](./NotasEMoedas.java) |
 
 ---
 
