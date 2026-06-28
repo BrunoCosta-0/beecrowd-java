@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-22-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-26-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -35,6 +35,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1019 | Conversão de Tempo | [ver](./ConversaoDeTempo.java) |
 | 1020 | Idade em Dias | [ver](./IdadeEmDias.java) |
 | 1021 | Notas e Moedas | [ver](./NotasEMoedas.java) |
+| 1035 | Teste de Seleção 1 | [ver](./TesteDeSelecao1.java) |
+| 1036 | Fórmula de Bhaskara | [ver](./FormulaDeBhaskara.java) |
+| 1037 | Intervalo | [ver](./Intervalo.java) |
+| 1038 | Lanche | [ver](./Lanche.java) |
 
 ---
 
