@@ -16,8 +16,8 @@ import java.util.Scanner;
 public class CoordenadasDeUmPonto {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int X = input.nextInt();
-        int Y = input.nextInt();
+        double X =input.nextDouble();
+        double Y = input.nextDouble();
 
         if (X == 0 && Y == 0) {
             System.out.println("Origem");
