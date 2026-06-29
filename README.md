@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-26-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-30-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -39,6 +39,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1036 | Fórmula de Bhaskara | [ver](./FormulaDeBhaskara.java) |
 | 1037 | Intervalo | [ver](./Intervalo.java) |
 | 1038 | Lanche | [ver](./Lanche.java) |
+| 1040 | Média 3 | [ver](./Media3.java) |
+| 1041 | Coordenadas de um Ponto | [ver](./CoordenadasDeUmPonto.java) |
+| 1042 | Sort Simples | [ver](./SortSimples.java) |
+| 1043 | Triângulo | [ver](./Triangulo.java) |
 
 ---
 
