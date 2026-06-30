@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-30-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-34-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -43,6 +43,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1041 | Coordenadas de um Ponto | [ver](./CoordenadasDeUmPonto.java) |
 | 1042 | Sort Simples | [ver](./SortSimples.java) |
 | 1043 | Triângulo | [ver](./Triangulo.java) |
+| 1044 | Múltiplos | [ver](./Multiplos.java) |
+| 1045 | Tipos de Triângulos | [ver](./TiposDeTriangulos.java) |
+| 1046 | Tempo de Jogo | [ver](./TempoDeJogo.java) |
+| 1047 | Tempo de Jogo com Minutos | [ver](./TempoDeJogoComMinutos.java) |
 
 ---
 
