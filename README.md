@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-34-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-38-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -47,6 +47,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1045 | Tipos de Triângulos | [ver](./TiposDeTriangulos.java) |
 | 1046 | Tempo de Jogo | [ver](./TempoDeJogo.java) |
 | 1047 | Tempo de Jogo com Minutos | [ver](./TempoDeJogoComMinutos.java) |
+| 1048 | Aumento de Salário | [ver](./AumentoDeSalario.java) |
+| 1049 | Animal | [ver](./Animal.java) |
+| 1050 | DDD | [ver](./DDD.java) |
+| 1051 | Imposto de Renda | [ver](./ImpostodeRenda.java) |
 
 ---
 
