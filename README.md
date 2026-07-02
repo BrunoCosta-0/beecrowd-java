@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-38-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-42-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -51,6 +51,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1049 | Animal | [ver](./Animal.java) |
 | 1050 | DDD | [ver](./DDD.java) |
 | 1051 | Imposto de Renda | [ver](./ImpostodeRenda.java) |
+| 1052 | Mês | [ver](./Mes.java) |
+| 1059 | Números Pares | [ver](./NumerosPares.java) |
+| 1060 | Números Positivos | [ver](./NumerosPositivos.java) |
+| 1061 | Tempo de um Evento | [ver](./TempoDeUmEvento.java) |
 
 ---
 
