@@ -7,7 +7,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-42-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-46-brightgreen?style=for-the-badge)
 
 ### 🟢 Iniciante
 
@@ -55,6 +55,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1059 | Números Pares | [ver](./NumerosPares.java) |
 | 1060 | Números Positivos | [ver](./NumerosPositivos.java) |
 | 1061 | Tempo de um Evento | [ver](./TempoDeUmEvento.java) |
+| 1064 | Positivos e Média | [ver](./PositivosEMedia.java) |
+| 1065 | Pares entre Cinco Números | [ver](./ParesEntrecincoNumeros.java) |
+| 1066 | Pares, Ímpares, Positivos e Negativos | [ver](./ParesImparesPositivosENegativos.java) |
+| 1067 | Números Ímpares | [ver](./NumerosImpares.java) |
 
 ---
 
