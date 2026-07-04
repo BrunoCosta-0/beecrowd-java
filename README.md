@@ -1,4 +1,3 @@
-
 # 🧩 Beecrowd - Soluções em Java
 
 Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.com.br/) desenvolvidas em Java.
@@ -9,7 +8,8 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ![Exercícios](https://img.shields.io/badge/Exercícios-50-brightgreen?style=for-the-badge)
 
-### 🟢 Iniciante
+<details>
+<summary>📂 1000 — 1021 (22 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -35,6 +35,14 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1019 | Conversão de Tempo | [ver](./ConversaoDeTempo.java) |
 | 1020 | Idade em Dias | [ver](./IdadeEmDias.java) |
 | 1021 | Notas e Moedas | [ver](./NotasEMoedas.java) |
+
+</details>
+
+<details>
+<summary>📂 1035 — 1052 (17 exercícios)</summary>
+
+| # | Problema | Solução |
+|---|----------|---------|
 | 1035 | Teste de Seleção 1 | [ver](./TesteDeSelecao1.java) |
 | 1036 | Fórmula de Bhaskara | [ver](./FormulaDeBhaskara.java) |
 | 1037 | Intervalo | [ver](./Intervalo.java) |
@@ -52,6 +60,14 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1050 | DDD | [ver](./DDD.java) |
 | 1051 | Imposto de Renda | [ver](./ImpostodeRenda.java) |
 | 1052 | Mês | [ver](./Mes.java) |
+
+</details>
+
+<details>
+<summary>📂 1059 — 1073 (11 exercícios)</summary>
+
+| # | Problema | Solução |
+|---|----------|---------|
 | 1059 | Números Pares | [ver](./NumerosPares.java) |
 | 1060 | Números Positivos | [ver](./NumerosPositivos.java) |
 | 1061 | Tempo de um Evento | [ver](./TempoDeUmEvento.java) |
@@ -63,6 +79,8 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1071 | Soma de Ímpares Consecutivos I | [ver](./SomaDeImparesConsecutivosI.java) |
 | 1072 | Intervalo 2 | [ver](./Intervalo2.java) |
 | 1073 | Quadrado de Pares | [ver](./QuadradoDePares.java) |
+
+</details>
 
 ---
 
