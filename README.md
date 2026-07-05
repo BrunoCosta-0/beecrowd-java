@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-50-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-54-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂 1059 — 1073 (11 exercícios)</summary>
+<summary>📂 1059 — 1079 (15 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -79,6 +79,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1071 | Soma de Ímpares Consecutivos I | [ver](./SomaDeImparesConsecutivosI.java) |
 | 1072 | Intervalo 2 | [ver](./Intervalo2.java) |
 | 1073 | Quadrado de Pares | [ver](./QuadradoDePares.java) |
+| 1074 | Par ou Ímpar | [ver](./ParOuImpar.java) |
+| 1075 | Resto 2 | [ver](./Resto2.java) |
+| 1078 | Tabuada | [ver](./Tabuada.java) |
+| 1079 | Médias Ponderadas | [ver](./MediasPonderadas.java) |
 
 </details>
 
