@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-54-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-58-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂 1059 — 1079 (15 exercícios)</summary>
+<summary>📂 1059 — 1079 (19 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -83,6 +83,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1075 | Resto 2 | [ver](./Resto2.java) |
 | 1078 | Tabuada | [ver](./Tabuada.java) |
 | 1079 | Médias Ponderadas | [ver](./MediasPonderadas.java) |
+| 1080 | Maior e Posição | [ver](./MaiorEPosicao.java) |
+| 1094 | Experiências | [ver](./Experiencias.java) |
+| 1095 | Sequência IJ 1 | [ver](./SequenciaIJ1.java) |
+| 1096 | Sequência IJ 2 | [ver](./SequenciaIJ2.java) |
 
 </details>
 
