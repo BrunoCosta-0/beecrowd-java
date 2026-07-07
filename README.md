@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-58-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-62-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂 1059 — 1079 (19 exercícios)</summary>
+<summary>📂 1059 — 1001 (23 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -87,6 +87,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1094 | Experiências | [ver](./Experiencias.java) |
 | 1095 | Sequência IJ 1 | [ver](./SequenciaIJ1.java) |
 | 1096 | Sequência IJ 2 | [ver](./SequenciaIJ2.java) |
+| 1097 | Sequência IJ 3 | [ver](./SequenciaIJ3.java) |
+| 1098 | Sequência IJ 4 | [ver](./SequenciaIJ4.java) |
+| 1099 | Soma de Ímpares Consecutivos II | [ver](./SomaDeImparesConsecutivosII.java) |
+| 1101 | Sequência de Números e Soma | [ver](./SequenciaDeNumerosESoma.java) |
 
 </details>
 
