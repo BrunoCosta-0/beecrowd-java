@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-62-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-66-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂 1059 — 1001 (23 exercícios)</summary>
+<summary>📂  1001 — 1063 (27 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -91,6 +91,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1098 | Sequência IJ 4 | [ver](./SequenciaIJ4.java) |
 | 1099 | Soma de Ímpares Consecutivos II | [ver](./SomaDeImparesConsecutivosII.java) |
 | 1101 | Sequência de Números e Soma | [ver](./SequenciaDeNumerosESoma.java) |
+| 1113 | Crescente e Decrescente | [ver](./CrescenteEDecrescente.java) |
+| 1114 | Senha Fixa | [ver](./SenhaFixa.java) |
+| 1115 | Quadrante | [ver](./Quadrante.java) |
+| 1116 | Dividindo X por Y | [ver](./DividindoXporY.java) |
 
 </details>
 
