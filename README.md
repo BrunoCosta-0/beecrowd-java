@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-66-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-70-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂  1001 — 1063 (27 exercícios)</summary>
+<summary>📂  1001 — 1132 (31 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -95,6 +95,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1114 | Senha Fixa | [ver](./SenhaFixa.java) |
 | 1115 | Quadrante | [ver](./Quadrante.java) |
 | 1116 | Dividindo X por Y | [ver](./DividindoXporY.java) |
+| 1117 | Validação de Nota | [ver](./ValidacaoDeNota.java) |
+| 1118 | Várias Notas Com Validação | [ver](./VariasNotasComValidacao.java) |
+| 1131 | Grenais | [ver](./Grenais.java) |
+| 1132 | Múltiplos de 13 | [ver](./MultiplosDe13.java) |
 
 </details>
 
