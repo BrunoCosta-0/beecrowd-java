@@ -6,7 +6,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-70-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-74-brightgreen?style=for-the-badge)
 
 <details>
 <summary>📂 1000 — 1021 (22 exercícios)</summary>
@@ -64,7 +64,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂  1001 — 1132 (31 exercícios)</summary>
+<summary>📂  1001 — 1143 (35 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -99,6 +99,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1118 | Várias Notas Com Validação | [ver](./VariasNotasComValidacao.java) |
 | 1131 | Grenais | [ver](./Grenais.java) |
 | 1132 | Múltiplos de 13 | [ver](./MultiplosDe13.java) |
+| 1133 | Resto da Divisão | [ver](./RestoDaDivisao.java) |
+| 1134 | Tipo de Combustível | [ver](./TipoDeCombustivel.java) |
+| 1142 | PUM | [ver](./Pum.java) |
+| 1143 | Quadrado e ao Cubo | [ver](./QuadradoEAoCubo.java) |
 
 </details>
 
