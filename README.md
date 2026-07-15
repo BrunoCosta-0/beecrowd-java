@@ -4,7 +4,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ---
 
-## 📋 Exercícios
+## 📋 Exercícioz
 
 ![Exercícios](https://img.shields.io/badge/Exercícios-74-brightgreen?style=for-the-badge)
 
