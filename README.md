@@ -1,4 +1,4 @@
-# 🧩 Beecrowd - Soluções em Java
+# 🧩 Beecrowd - Soluções em java
 
 Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.com.br/) desenvolvidas em Java.
 
