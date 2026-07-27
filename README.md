@@ -6,10 +6,10 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 
 ## 📋 Exercícios
 
-![Exercícios](https://img.shields.io/badge/Exercícios-74-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exercícios-76-brightgreen?style=for-the-badge)
 
 <details>
-<summary>📂 1000 — 1021 (22 exercícios)</summary>
+<summary>📂 1000 — 1038 (26 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
@@ -35,18 +35,19 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1019 | Conversão de Tempo | [ver](./ConversaoDeTempo.java) |
 | 1020 | Idade em Dias | [ver](./IdadeEmDias.java) |
 | 1021 | Notas e Moedas | [ver](./NotasEMoedas.java) |
-
-</details>
-
-<details>
-<summary>📂 1035 — 1052 (17 exercícios)</summary>
-
-| # | Problema | Solução |
-|---|----------|---------|
 | 1035 | Teste de Seleção 1 | [ver](./TesteDeSelecao1.java) |
 | 1036 | Fórmula de Bhaskara | [ver](./FormulaDeBhaskara.java) |
 | 1037 | Intervalo | [ver](./Intervalo.java) |
 | 1038 | Lanche | [ver](./Lanche.java) |
+
+</details>
+
+<details>
+<summary>📂 1040 — 1070 (20 exercícios)</summary>
+
+| # | Problema | Solução |
+|---|----------|---------|
+
 | 1040 | Média 3 | [ver](./Media3.java) |
 | 1041 | Coordenadas de um Ponto | [ver](./CoordenadasDeUmPonto.java) |
 | 1042 | Sort Simples | [ver](./SortSimples.java) |
@@ -60,14 +61,6 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1050 | DDD | [ver](./DDD.java) |
 | 1051 | Imposto de Renda | [ver](./ImpostodeRenda.java) |
 | 1052 | Mês | [ver](./Mes.java) |
-
-</details>
-
-<details>
-<summary>📂  1001 — 1143 (35 exercícios)</summary>
-
-| # | Problema | Solução |
-|---|----------|---------|
 | 1059 | Números Pares | [ver](./NumerosPares.java) |
 | 1060 | Números Positivos | [ver](./NumerosPositivos.java) |
 | 1061 | Tempo de um Evento | [ver](./TempoDeUmEvento.java) |
@@ -76,6 +69,15 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1066 | Pares, Ímpares, Positivos e Negativos | [ver](./ParesImparesPositivosENegativos.java) |
 | 1067 | Números Ímpares | [ver](./NumerosImpares.java) |
 | 1070 | Seis Números Ímpares | [ver](./SeisNumerosImpares.java) |
+
+</details>
+
+<details>
+<summary>📂  1001 — 1145 (29 exercícios)</summary>
+
+| # | Problema | Solução |
+|---|----------|---------|
+
 | 1071 | Soma de Ímpares Consecutivos I | [ver](./SomaDeImparesConsecutivosI.java) |
 | 1072 | Intervalo 2 | [ver](./Intervalo2.java) |
 | 1073 | Quadrado de Pares | [ver](./QuadradoDePares.java) |
@@ -103,6 +105,8 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 | 1134 | Tipo de Combustível | [ver](./TipoDeCombustivel.java) |
 | 1142 | PUM | [ver](./Pum.java) |
 | 1143 | Quadrado e ao Cubo | [ver](./QuadradoEAoCubo.java) |
+| 1144 | Sequência Lógica | [ver](./SequenciaLogica.java) |
+| 1145 | Sequência Lógica 2 | [ver](./SequenciaLogica2.java) |
 
 </details>
 
