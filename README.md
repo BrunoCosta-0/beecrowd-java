@@ -73,7 +73,7 @@ Repositório com soluções dos exercícios do [Beecrowd](https://www.beecrowd.c
 </details>
 
 <details>
-<summary>📂  1001 — 1145 (29 exercícios)</summary>
+<summary>📂  1071 — 1145 (29 exercícios)</summary>
 
 | # | Problema | Solução |
 |---|----------|---------|
